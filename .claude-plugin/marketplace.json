@@ -1,0 +1,15 @@
+{
+  "name": "execasst-personal-plugins",
+  "owner": {
+    "name": "execasstlgugingoog-jpg"
+  },
+  "description": "Personal Claude plugins and specialised subagents.",
+  "plugins": [
+    {
+      "name": "sonnet-workers",
+      "source": "./plugins/sonnet-workers",
+      "description": "Sonnet subagents for delegated repository exploration, implementation, debugging, testing, and code review.",
+      "version": "1.0.0"
+    }
+  ]
+}
