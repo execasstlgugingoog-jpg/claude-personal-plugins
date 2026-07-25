@@ -1,0 +1,9 @@
+{
+  "name": "sonnet-workers",
+  "displayName": "Sonnet Workers",
+  "description": "Sonnet subagents for delegated repository exploration, implementation, debugging, testing, and code review.",
+  "version": "1.0.0",
+  "author": {
+    "name": "execasstlgugingoog-jpg"
+  }
+}
